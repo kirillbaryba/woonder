@@ -1,0 +1,41 @@
+.icon {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(sprite.svg);
+}
+.icon-belgium {
+    width: 32px;
+    height: 32px;
+    background-position: 0 0;
+}
+.icon-croatia {
+    width: 32px;
+    height: 32px;
+    background-position: -48px 0;
+}
+.icon-denmark {
+    width: 32px;
+    height: 32px;
+    background-position: -96px 0;
+}
+.icon-germany {
+    width: 32px;
+    height: 32px;
+    background-position: -144px 0;
+}
+.icon-netherlands {
+    width: 32px;
+    height: 32px;
+    background-position: -192px 0;
+}
+.icon-poland {
+    width: 32px;
+    height: 32px;
+    background-position: -240px 0;
+}
+.icon-spain {
+    width: 32px;
+    height: 32px;
+    background-position: -288px 0;
+}
+

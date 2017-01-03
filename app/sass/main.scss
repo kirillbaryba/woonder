@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+//mixins
+//@import 'mixins/border-radius';
+
+
+@import 'variables';
+@import 'svg-icon';
+@import 'app/bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'app/bower_components/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.scss';
+
+
+@import 'bootstrap_variables';
+@import 'fonts-icon';
+//social btn bootsrap
+@import 'app/bower_components/bootstrap-social/bootstrap-social.scss';    
+@import 'app/bower_components/font-awesome/scss/font-awesome.scss';
+//select bootsrap
+@import 'app/bower_components/bootstrap-select/sass/bootstrap-select.scss';
+//@import 'custom-icons';
+@import 'custom';
+@import 'home-page';
+@import 'type';
+@import 'icon-flags';
+@import 'navbar';
+@import 'promo';
+@import 'btn';
+@import 'backdrop';
+@import 'main-looking';
+@import 'form';
+@import 'tab-list';
+@import 'media';
+@import 'product-tile';
+@import 'designer-tile';
+@import 'article-tile';
+@import 'vertical-tile';
+
+@import 'main-tile-popover';
+@import 'select';
+@import 'btn-share';
+@import 'input-number';
+
+

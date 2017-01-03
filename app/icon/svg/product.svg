@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="411 1179 21 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+    </style>
+  </defs>
+  <g id="gruppieren-65" transform="translate(411 1178.999)">
+    <path id="pfad" class="cls-1" d="M241.947,283.394l-4.278-2.464-9.909,5.791.566.3,3.71,2.168,3.691-2.153Zm0,0" transform="translate(-221.574 -277.788)"/>
+    <path id="pfad-2" data-name="pfad" class="cls-1" d="M137.579,350.442l-4.142-2.414v2.745l-1.778-.92v-2.87L128,344.85v9.055l0,.009,0,1.488a1.225,1.225,0,0,0,.678,1.037l.911.535v.005l1.257.735h0l6.722,3.926Z" transform="translate(-128 -337.699)"/>
+    <path id="pfad-3" data-name="pfad" class="cls-1" d="M312.192,348.87l-1.072.627v11.275l6.791-3.967h0l.3-.178,1-.582v0l.868-.511a1.229,1.229,0,0,0,.678-1.037l0-1.719,0-.009V343.86Z" transform="translate(-299.765 -336.771)"/>
+    <path id="pfad-4" data-name="pfad" class="cls-1" d="M149.654,232.336l-2.185-1.281a1.2,1.2,0,0,0-1.228-.066l-.732.433h0l-8.619,5.035,3.715,2.173,9.911-5.791Z" transform="translate(-136.339 -230.85)"/>
+  </g>
+</svg>

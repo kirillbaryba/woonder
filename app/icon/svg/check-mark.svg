@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1255 405 11.923 9.042">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        fill: #555;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="rectangle" width="11.923" height="9.042"/>
+    </clipPath>
+  </defs>
+  <g id="check-mark" transform="translate(-1255 403.5)">
+    <g id="group" transform="translate(0 1.5)">
+      <g id="group-2" data-name="group" class="cls-1">
+        <path id="path" class="cls-2" d="M5.366,9.846a1.382,1.382,0,0,1-1.888,0L.5,6.866a1.382,1.382,0,0,1,0-1.888,1.382,1.382,0,0,1,1.888,0L4.174,6.766a.451.451,0,0,0,.5,0L9.539,1.9a1.382,1.382,0,0,1,1.888,0,1.276,1.276,0,0,1,.4.994,1.276,1.276,0,0,1-.4.994Zm0,0" transform="translate(-0.001 -1.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>
